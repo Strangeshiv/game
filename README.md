@@ -1,2 +1,1 @@
-# game
-A simple Python-based betting slot machine game played via the terminal. It includes balance management, betting across multiple lines, and randomized slot outcomes. Great for learning randomization, control flow, and input validation in Python.
+
